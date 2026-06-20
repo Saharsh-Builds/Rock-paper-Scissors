@@ -23,6 +23,7 @@ while True: # Reaplay loop!
             print("I think i know!")
             time.sleep(1)
             print(f"oh you chose? : {User_choice}")
+            time.sleep(1)
 
             print(f"lets go again, I will win this time!!, BTW I chose: {computer_choice}")
             continue
@@ -35,6 +36,7 @@ while True: # Reaplay loop!
             print("I think i know!")
             time.sleep(1)
             print(f"oh you chose? : {User_choice}")
+            time.sleep(1)
             
             print(f"Congrats, you win!!\n My choice was: {computer_choice}")
             break
@@ -46,7 +48,7 @@ while True: # Reaplay loop!
             print("I think i know!")
             time.sleep(1)
             print(f"oh you chose? : {User_choice}")
-
+            time.sleep(1)
             print(f"I win!! Better luck next time!!\n My choice was: {computer_choice}")
             break
         
